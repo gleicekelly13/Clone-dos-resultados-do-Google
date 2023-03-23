@@ -35,12 +35,12 @@ body {
     
 }
 
-/*.busca1 i {
+.busca1 i {
     position: absolute;
-}*/
+}
 
 .fa-xmark {
-    margin-left: -15rem;
+    margin-left: -11rem;
     font-size: 20px;
     
 }
@@ -63,4 +63,8 @@ body {
 .fa-magnifying-glass {
     margin-left: 1rem;
     font-size: 16px;
+}
+
+.icons {
+    margin-left: 40rem;
 }
