@@ -35,3 +35,23 @@ body {
     
 }
 
+/*.busca1 i {
+    position: absolute;
+}*/
+
+.fa-xmark {
+    margin-left: -15rem;
+    font-size: 20px;
+    
+}
+
+.fa-keyboard {
+    margin-left: 1rem;
+    font-size: 17px;
+}
+
+.fa-microphone {
+    margin-left: 1rem;
+    font-size: 17px;
+}
+
