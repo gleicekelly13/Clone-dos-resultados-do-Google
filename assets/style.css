@@ -73,11 +73,12 @@ header {
 }
 
 .icons {
-    margin-left: 40rem;
+    margin-left: 20rem;
 }
 
 .engrenagem {
-    margin-left: -3rem;
+   margin-right: -11rem;
+   margin-left: 17rem;
 }
 
 .menu {
@@ -89,3 +90,28 @@ header {
     margin-left: 1rem;
     
 }
+
+nav {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.menu {
+    margin-left: 12rem;
+    margin-top: 1.5rem;
+    font-size: 14px;
+    gap: 25px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #70757a;
+}
+
+.f1 {
+    margin-left: 4rem;
+    color: #70757a;
+}
+
