@@ -12,9 +12,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.cabecalho1 {
+header {
     display: flex;
     flex-direction: row;
+}
+
+.cabecalho1 {
     margin-top: 1.5rem;
 }
 
@@ -71,4 +74,18 @@ body {
 
 .icons {
     margin-left: 40rem;
+}
+
+.engrenagem {
+    margin-left: -3rem;
+}
+
+.menu {
+    margin-left: 1rem;
+    
+}
+
+.login {
+    margin-left: 1rem;
+    
 }
