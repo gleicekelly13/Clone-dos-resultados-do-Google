@@ -41,28 +41,32 @@ body {
 
 .fa-xmark {
     margin-left: -11rem;
-    font-size: 20px;
-    
+    font-size: 21px;
+    color: #797e82;
 }
 
 .fa-keyboard {
     margin-left: 1rem;
     font-size: 17px;
+    color: #7b7b7b;
 }
 
 .fa-microphone {
     margin-left: 1rem;
-    font-size: 17px;
+    font-size: 18px;
+    color: #4285f4;
 }
 
 .fa-camera {
     margin-left: 1rem;
     font-size: 16px;
+    color: #4285f4;
 }
 
 .fa-magnifying-glass {
     margin-left: 1rem;
     font-size: 16px;
+    color: #4285f4;
 }
 
 .icons {
