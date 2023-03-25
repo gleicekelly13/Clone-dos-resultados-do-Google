@@ -24,6 +24,7 @@ body {
 
 .google {
     margin-left: 2rem;
+    
 }
 
 .busca {
@@ -93,3 +94,24 @@ body {
     
 }
 
+nav {
+    display: flex;
+    flex-direction: row;
+}
+
+.menu {
+    padding: 1.5rem 12rem;
+    border-bottom: 1px solid #dadce0;
+    gap: 1.5rem;
+    font-size: 14px;
+    
+}
+
+a {
+    color: #5f6368;
+}
+
+.f1 {
+    margin-left: 4rem;
+    color: #5f6368;
+}
