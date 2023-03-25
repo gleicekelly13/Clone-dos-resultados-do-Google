@@ -121,4 +121,13 @@ a {
 .f1 {
     margin-left: 4rem;
     color: #5f6368;
+    cursor: pointer;
+    
+}
+
+.f1:hover {
+    padding: 6px 10px;
+    background-color: #f8f9fa;
+    border-radius: 2px;
+    box-shadow: 1px 1px 1px 1.5px #dadce0;
 }
