@@ -250,3 +250,19 @@ span {
 a {
     color: #1a0dab;
 }
+
+.subtopico2-css {
+    margin-top: 1.5rem;
+}
+
+.css1 {
+    font-size: 13px;
+    color: #202124;
+}
+
+.subtopico-paragrafo2 {
+    margin-top: 0.3rem;
+    font-size: 14px;
+    color: #4d5156;
+    line-height: 1.58;
+}
