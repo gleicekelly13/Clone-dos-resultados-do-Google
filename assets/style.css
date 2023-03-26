@@ -266,3 +266,24 @@ a {
     color: #4d5156;
     line-height: 1.58;
 }
+
+.mozilla-html {
+    margin-top: 1.5rem;
+}
+
+.h1 {
+    font-size: 14px;
+    color: #202124;
+}
+
+.h2 {
+    font-size: 12px;
+    color: #4d5156;
+}
+
+.paragrafo-html {
+    margin-top: 0.3rem;
+    font-size: 14px;
+    color: #4d5156;
+    line-height: 1.58;
+}
