@@ -150,3 +150,11 @@ main {
     margin-left: 12rem;
     margin-top: 1.5rem;
 }
+
+.patrocinio {
+    font-size: 14px;
+    font-weight: bold;
+    color: #202124;
+    font-family: inherit;
+}
+
