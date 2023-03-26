@@ -140,3 +140,13 @@ a {
     font-size: 14px;
     color: #70757a;
 }
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+.principal {
+    margin-left: 12rem;
+    margin-top: 1.5rem;
+}
