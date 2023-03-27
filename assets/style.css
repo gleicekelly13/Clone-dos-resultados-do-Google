@@ -287,3 +287,68 @@ a {
     color: #4d5156;
     line-height: 1.58;
 }
+
+.pesquisas {
+    display: flex;
+    flex-direction: column;
+}
+
+.pesquisas1 {
+    margin-top: 2rem;
+}
+
+.pesquisas2 {
+    font-size: 22px;
+    font-weight: 400;
+    color: #202124;
+}
+
+.inputs {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+
+.inputs-a {
+    display: flex;
+    flex-direction: column;
+}
+
+.i1 {
+    width: 20rem;
+    height: 3rem;
+    border-radius: 25px;
+    background-color: #f1f1f1;
+    border: none;
+    font-size: 15px;
+}
+
+.i2 {
+    margin-top: 0.5rem;
+    width: 20rem;
+    height: 3rem;
+    border-radius: 25px;
+    background-color: #f1f1f1;
+    border: none;
+    font-size: 15px;
+}
+
+.i3 {
+    margin-top: 0.5rem;
+    width: 20rem;
+    height: 3rem;
+    border-radius: 25px;
+    background-color: #f1f1f1;
+    border: none;
+    font-size: 15px;
+}
+
+.i4 {
+    margin-top: 0.5rem;
+    width: 20rem;
+    height: 3rem;
+    border-radius: 25px;
+    background-color: #f1f1f1;
+    border: none;
+    font-size: 15px;
+}
