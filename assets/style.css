@@ -77,7 +77,6 @@ body {
 .fa-magnifying-glass {
     margin-left: 1rem;
     font-size: 16px;
-    color: #4285f4;
     cursor: pointer;
 }
 
@@ -305,20 +304,24 @@ a {
 
 .inputs {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
     margin-top: 1rem;
 }
 
 .inputs-a {
     display: flex;
     flex-direction: column;
+    margin-top: 0.5rem;
+    
 }
 
 .i1 {
     width: 20rem;
     height: 3rem;
     border-radius: 25px;
-    background-color: #f1f1f1;
+    background-color: #f1f3f4;
     border: none;
     font-size: 15px;
 }
@@ -328,7 +331,7 @@ a {
     width: 20rem;
     height: 3rem;
     border-radius: 25px;
-    background-color: #f1f1f1;
+    background-color: #f1f3f4;
     border: none;
     font-size: 15px;
 }
@@ -338,7 +341,7 @@ a {
     width: 20rem;
     height: 3rem;
     border-radius: 25px;
-    background-color: #f1f1f1;
+    background-color: #f1f3f4;
     border: none;
     font-size: 15px;
 }
@@ -348,7 +351,54 @@ a {
     width: 20rem;
     height: 3rem;
     border-radius: 25px;
-    background-color: #f1f1f1;
+    background-color: #f1f3f4;
+    border: none;
+    font-size: 15px;
+}
+
+.inputs-b {
+    display: flex;
+    flex-direction: column;   
+    margin-left: 1rem;
+    
+}
+
+.i5 {
+    margin-top: 0.5rem;
+    width: 20rem;
+    height: 3rem;
+    border-radius: 25px;
+    background-color: #f1f3f4;
+    border: none;
+    font-size: 15px;
+}
+
+.i6 {
+    margin-top: 0.5rem;
+    width: 20rem;
+    height: 3rem;
+    border-radius: 25px;
+    background-color: #f1f3f4;
+    border: none;
+    font-size: 15px;
+}
+
+.i7 {
+    margin-top: 0.5rem;
+    width: 20rem;
+    height: 3rem;
+    border-radius: 25px;
+    background-color: #f1f3f4;
+    border: none;
+    font-size: 15px;
+}
+
+.i8 {
+    margin-top: 0.5rem;
+    width: 20rem;
+    height: 3rem;
+    border-radius: 25px;
+    background-color: #f1f3f4;
     border: none;
     font-size: 15px;
 }
