@@ -636,3 +636,23 @@ a {
 .mais:hover {
     text-decoration: underline;
 }
+
+footer {
+    display: flex;
+    flex-direction: column;
+    background-color: #f2f2f2;
+}
+
+.rodape {
+    margin-top: 3rem;
+}
+
+.f_1 {
+    margin-left: 12rem;
+    padding-top: 1rem;
+}
+
+.f_2 {
+    padding-bottom: 3rem;
+    margin-left: 12rem;
+}
