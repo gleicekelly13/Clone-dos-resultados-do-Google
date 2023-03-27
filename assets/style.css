@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -433,4 +435,204 @@ a {
 
 .i8:hover {
     cursor: pointer;
+}
+
+.gooogle {
+    display: flex;
+    flex-direction: column;
+    margin-left: 22rem;
+}
+
+.googlepags {
+    display: flex;
+    flex-direction: row;
+    margin-top: 3rem;
+    
+}
+
+.numeracao {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Roboto', sans-serif;
+    color: #4285f4;
+}
+
+.g {
+    font-size: 35px;
+    color: #4285f4;   
+}
+
+.o1 {
+    font-size: 35px;
+    color: #ea4335;
+}
+
+.o2 {
+    font-size: 35px;
+    color: #fbbc05;
+}
+
+.o3 {
+    font-size: 35px;
+    color: #fbbc05;
+}
+
+.o4 {
+    font-size: 35px;
+    color: #fbbc05;
+}
+
+.o5 {
+    font-size: 35px;
+    color: #fbbc05;
+}
+
+.o6 {
+    font-size: 35px;
+    color: #fbbc05;
+}
+
+.o7 {
+    font-size: 35px;
+    color: #fbbc05;
+}
+
+.o8 {
+    font-size: 35px;
+    color: #fbbc05;
+}
+
+.o9 {
+    font-size: 35px;
+    color: #fbbc05;
+}
+
+.o10 {
+    font-size: 35px;
+    color: #fbbc05;
+}
+
+.g1 {
+    font-size: 35px;
+    color: #4285f4;
+}
+
+.l {
+    font-size: 35px;
+    color: #38a956;
+}
+
+.e {
+    font-size: 35px;
+    color: #ea4335;
+    
+}
+
+.seta {
+    margin-left: 1rem;
+    font-size: 20px;
+    color: #4285f4;
+}
+
+.numeracao {
+    margin-left: 2rem;
+}
+
+.p1 {
+    color: #050505;
+}
+
+.p2 {
+    margin-left: 0.6rem;
+    color: #4285f4;
+}
+
+.p3 {
+    margin-left: 0.6rem;
+    color: #4285f4;
+}
+
+.p4 {
+    margin-left: 0.6rem;
+    color: #4285f4;
+}
+
+.p5 {
+    margin-left: 0.6rem;
+    color: #4285f4;
+}
+
+.p6 {
+    margin-left: 0.6rem;
+    color: #4285f4;
+}
+
+.p7 {
+    margin-left: 0.6rem;
+    color: #4285f4;
+}
+
+.p8 {
+    margin-left: 0.6rem;
+    color: #4285f4;
+}
+
+.p9 {
+    margin-left: 0.6rem;
+    color: #4285f4;
+}
+
+.p10 {
+    margin-left: 0.6rem;
+    color: #4285f4;
+}
+
+.mais {
+    margin-left: 3.5rem;
+    font-size: 14px;
+    color: #4285f4;
+}
+
+.p1:hover {
+    cursor: text;
+}
+
+.p2:hover {
+    text-decoration: underline;
+}
+
+.p3:hover {
+    text-decoration: underline;
+}
+
+.p4:hover {
+    text-decoration: underline;
+}
+
+.p5:hover {
+    text-decoration: underline;
+}
+
+.p6:hover {
+    text-decoration: underline;
+}
+
+.p7:hover {
+    text-decoration: underline;
+}
+
+.p8:hover {
+    text-decoration: underline;
+}
+
+.p9:hover {
+    text-decoration: underline;
+}
+
+.p10:hover {
+    text-decoration: underline;
+}
+
+.mais:hover {
+    text-decoration: underline;
 }
