@@ -648,8 +648,26 @@ footer {
 }
 
 .f_1 {
-    margin-left: 12rem;
-    padding-top: 1rem;
+    display: flex;
+    flex-direction: row;
+    padding: 12rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #dadce0;
+    color: #70757a;
+    
+}
+
+.brasil {
+    padding-right: 1rem;
+    border-right: 1px solid #dadce0;
+}
+
+.lugar {
+    margin-left: 1rem;
+    color: #4d5156;
+    font-weight: bold;
+    font-size: 14px;
 }
 
 .f_2 {
