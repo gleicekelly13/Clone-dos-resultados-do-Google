@@ -670,6 +670,10 @@ footer {
     font-size: 14px;
 }
 
+.lugar:hover {
+    cursor: pointer;
+}
+
 .f_2 {
     padding-bottom: 3rem;
     margin-left: 12rem;
