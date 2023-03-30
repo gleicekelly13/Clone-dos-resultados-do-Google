@@ -116,7 +116,7 @@ nav {
 
 .menu {
     padding: 1.5rem 12rem;
-    padding-bottom: 0.5rem;
+    padding-bottom: 1rem;
     border-bottom: 1px solid #dadce0;
     gap: 1.5rem;
     font-size: 14px;
@@ -742,3 +742,21 @@ footer {
     
 }
 
+
+@media screen and (max-width: 1029px) {
+    .busca1 {
+        width: 30rem;
+    }
+
+    .icons {
+        margin-left: 10rem;
+    }
+
+    .menu {
+        padding-left: 2rem;
+    }
+
+    .f1 {
+        margin-left: 1.5rem;
+    }
+}
