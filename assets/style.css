@@ -83,9 +83,15 @@ body {
 }
 
 .icons {
+    display: flex;
+    flex-direction: row;
+    margin-left: 36rem;
+}
+
+/*.icons {
     margin-left: 36rem;
     cursor: pointer;
-}
+}*/
 
 .engrenagem {
    margin-left: 1rem;
@@ -680,3 +686,27 @@ footer {
     font-size: 14px;
     color: #70757a;
 }
+
+@media screen and (max-width: 1072px) {
+    .icons {
+        display: flex;
+        flex-direction: row;
+        margin-left: 1rem;
+    }
+    .engrenagem {
+        margin-left: 1rem;
+
+    }
+
+    .quadrado {
+        margin-left: 1rem;
+    
+    }
+
+    .login {
+        margin-left: 1rem;
+    
+    }
+    
+}
+
