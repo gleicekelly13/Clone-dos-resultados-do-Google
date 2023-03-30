@@ -122,7 +122,30 @@ nav {
     
 }
 
+.pesquisar {
+    padding-right: 0.2rem;
+}
+
+.image {
+    padding-right: 0.3rem;
+}
+
+.videos {
+    padding-right: 0.3rem;   
+}
+
+.shopping {
+    padding-right: 0.3rem;
+}
+
+.livros {
+    padding-right: 0.3rem;
+}
+
+
+
 a {
+    
     color: #5f6368;
 }
 
@@ -707,6 +730,13 @@ footer {
         margin-left: 1rem;
     
     }
+
+    .f_2 {
+        padding: bottom 1.5em;
+    }
     
 }
 
+@media screen and (max-width: 900px) {
+    
+}
