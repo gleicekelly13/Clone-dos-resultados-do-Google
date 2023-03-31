@@ -787,3 +787,39 @@ footer {
         padding-bottom: 1.5rem;
     }
 }
+@media screen and (max-width: 930px) {
+    .busca {
+        margin-top: -0.3rem;
+    }
+
+    .busca1 {
+        width: 20rem;
+        height: 2.5rem;
+        font-size: 12px;
+    }
+
+    .fa-xmark {
+        font-size: 15px;
+        margin-left: -9rem;
+    }
+
+    .fa-keyboard {
+        font-size: 15px;
+        margin-left: 0.8rem;
+    }
+
+    .fa-microphone {
+        font-size: 15px;
+        margin-left: 0.7rem;
+    }
+
+    .fa-camera {
+        font-size: 15px;
+        margin-left: 0.6rem;
+    }
+
+    .fa-magnifying-glass {
+        font-size: 15px;
+        margin-left: 0.6rem;
+    }
+}
