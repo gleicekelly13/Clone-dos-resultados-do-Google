@@ -704,7 +704,7 @@ footer {
     display: flex;
     flex-direction: row;
     gap: 2rem;
-    padding-bottom: 3rem;
+    padding-bottom: 2rem;
     margin-left: 12rem;
     padding-top: 1rem;
     font-size: 14px;
@@ -758,5 +758,32 @@ footer {
 
     .f1 {
         margin-left: 1.5rem;
+    }
+
+    .estatistica {
+        margin-left: 2rem;
+    }
+
+    .principal {
+        margin-left: 2rem;
+    }
+
+    .subtopicosb7 {
+        margin-left: 1rem;
+    }
+
+    .gooogle {
+        margin-left: 13rem;
+    }
+
+    .f_1 {
+        padding: 2rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+
+    .f_2 {
+        margin-left: 2rem;
+        padding-bottom: 1.5rem;
     }
 }
