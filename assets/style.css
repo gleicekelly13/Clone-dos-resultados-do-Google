@@ -870,4 +870,12 @@ footer {
     .paragrafo1 {
         font-size: 11px;
     }
+
+    h3 {
+        font-size: 16px;
+    }
+
+    span {
+        font-size: 12px;
+    }
 }
