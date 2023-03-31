@@ -793,7 +793,7 @@ footer {
     }
 
     .busca1 {
-        width: 20rem;
+        width: 26rem;
         height: 2.5rem;
         font-size: 12px;
     }
@@ -821,5 +821,14 @@ footer {
     .fa-magnifying-glass {
         font-size: 15px;
         margin-left: 0.6rem;
+    }
+
+    .icons {
+        margin-left: 12rem;
+    }
+
+    .menu {
+        padding: 1rem 1.5rem;
+        font-size: 11px;
     }
 }
