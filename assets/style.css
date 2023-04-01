@@ -1129,3 +1129,48 @@ footer {
         margin-left: 0.2rem;
     }
 }
+
+@media screen and (max-width: 765px) {
+    .busca1 {
+        width: 18rem;
+        height: 2.5rem;
+        margin-top: 0.5rem;
+    }
+
+    .fa-xmark {
+        font-size: 12px;
+        margin-left: -7rem;
+    }
+
+    .fa-keyboard {
+        font-size: 12px;
+        margin-left: 0.4rem;
+    }
+
+    .fa-microphone {
+        font-size: 12px;
+        margin-left: 0.6rem;
+    }
+
+    .fa-camera {
+        font-size: 12px;
+        margin-left: 0.5rem;
+    }
+
+    .fa-magnifying-glass {
+        font-size: 12px;
+        margin-left: 0.4rem;
+    }
+
+    .menu {
+        padding-left: 1rem;
+        padding-bottom: 1rem;
+        font-size: 9px;
+        gap: 0.8rem;
+    }
+
+    .f1 {
+        padding-top: 0.5rem;
+    }
+
+}
