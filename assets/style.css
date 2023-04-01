@@ -1172,5 +1172,22 @@ footer {
     .f1 {
         padding-top: 0.5rem;
     }
+}
 
+@media screen and (max-width: 720px) {
+    .icons {
+        margin-left: 7rem;
+    }
+
+    .engrenagem {
+        margin-left: rem;
+    }
+
+    .quadrado {
+        margin-left: 0.5rem;
+    }
+
+    .login {
+        margin-left: 0.5rem;
+    }
 }
