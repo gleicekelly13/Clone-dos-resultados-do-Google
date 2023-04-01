@@ -685,6 +685,7 @@ footer {
 }
 
 .brasil {
+    font-size: 14px;
     padding-right: 1rem;
     border-right: 1px solid #dadce0;
 }
@@ -1076,5 +1077,17 @@ footer {
     .mais {
         font-size: 11px;
         margin-left: 2.5rem;
+    }
+
+    .brasil {
+        font-size: 12px;
+    }
+
+    .lugar {
+        font-size: 12px;
+    }
+
+    .f_2 {
+        font-size: 12px;
     }
 }
