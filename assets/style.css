@@ -89,11 +89,6 @@ body {
     cursor: pointer;
 }
 
-/*.icons {
-    margin-left: 36rem;
-    cursor: pointer;
-}*/
-
 .engrenagem {
    margin-left: 0.5rem;
 
@@ -1089,5 +1084,48 @@ footer {
 
     .f_2 {
         font-size: 12px;
+    }
+
+}
+
+@media screen and (max-width: 859px) {
+    .icons {
+        margin-left: 8rem;
+    }
+}
+
+@media screen and (max-width: 829px) {
+    .busca1 {
+        width: 22rem;
+    }
+
+    .fa-xmark {
+        font-size: 13px;
+    }
+
+    .fa-keyboard {
+        font-size: 13px;
+    }
+
+    .fa-microphone {
+        font-size: 13px;
+    }
+
+    .fa-camera {
+        font-size: 13px;
+    }
+
+    .fa-magnifying-glass {
+        font-size: 13px;
+    }
+
+    .menu {
+        padding: 1rem;
+        font-size: 10px;
+        padding-left: 0.3rem;
+    }
+
+    .f1 {
+        margin-left: 0.2rem;
     }
 }
