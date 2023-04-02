@@ -1179,15 +1179,25 @@ footer {
         margin-left: 7rem;
     }
 
-    .engrenagem {
-        margin-left: rem;
-    }
-
     .quadrado {
         margin-left: 0.5rem;
     }
 
     .login {
         margin-left: 0.5rem;
+    }
+}
+
+@media screen and (max-width: 685px) {
+    .icons {
+        margin-left: 6rem;
+    }
+
+    .quadrado {
+        margin-left: 0.4rem;
+    }
+
+    .login {
+        margin-left: 0.4rem;
     }
 }
