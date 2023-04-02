@@ -1207,3 +1207,11 @@ footer {
         margin-left: 1.5rem;
     }
 }
+
+@media screen and (max-width: 640px) {
+    .busca1 {
+        width: 16rem;
+    }
+
+}
+
