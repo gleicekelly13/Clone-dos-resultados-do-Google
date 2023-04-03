@@ -1209,6 +1209,10 @@ footer {
 }
 
 @media screen and (max-width: 639px) {
+    .cabecalho1 {
+        margin-top: 1rem;
+    }
+
     .busca1 {
         width: 16rem;
     }
@@ -1217,7 +1221,7 @@ footer {
 @media screen and (max-width: 610px) {
    .busca1 {
     width: 15rem;
-    height: 2rem;
+    
    }
 
    .menu {
