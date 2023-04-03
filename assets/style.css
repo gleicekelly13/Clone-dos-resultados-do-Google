@@ -21,7 +21,7 @@ body {
     flex-direction: row;
     margin-top: 2rem;
     width: 100%;
-    
+
 }
 
 .google {
@@ -1208,10 +1208,9 @@ footer {
     }
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 639px) {
     .busca1 {
         width: 16rem;
     }
-
 }
 
