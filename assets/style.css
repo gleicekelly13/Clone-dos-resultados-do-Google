@@ -99,6 +99,10 @@ body {
     
 }
 
+.hamburguer {
+    display: none;
+}
+
 .login {
     margin-left: 1rem;
     
