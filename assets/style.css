@@ -138,6 +138,10 @@ nav {
     padding-right: 0.3rem;
 }
 
+.mapas, .voar {
+    display: none;
+}
+
 .livros {
     padding-right: 0.3rem;
 }
