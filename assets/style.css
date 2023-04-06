@@ -1188,7 +1188,8 @@ footer {
     }
 
     .login {
-        margin-left: -10rem;
+        margin-top: 0.4rem;
+        margin-left: -9rem;
     }
 
     .menu {
@@ -1198,6 +1199,10 @@ footer {
         gap: 0.8rem;
     }
 
+    .pesquisar, .image, .videos, .shopping, .mapas, .livros, .voar, .mais1 {
+        display: none;
+    }
+    
     .f1 {
         padding-top: 0.5rem;
     }
