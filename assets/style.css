@@ -1148,14 +1148,14 @@ footer {
     }
 
     .google {
-        padding-top: ;
+        margin-left: 20rem;
     }
 
     .busca1 {
-        width: 30rem;
+        width: 45rem;
         height: 2.5rem;
         margin-top: 3.5rem;
-        margin-left: -9rem;
+        margin-left: -27rem;
     }
 
     .fa-xmark {
@@ -1181,6 +1181,14 @@ footer {
     .fa-magnifying-glass {
         font-size: 12px;
         margin-left: 0.4rem;
+    }
+
+    .engrenagem, .quadrado {
+        display: none;
+    }
+
+    .login {
+        margin-left: -10rem;
     }
 
     .menu {
