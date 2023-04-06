@@ -1143,10 +1143,19 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-    .busca1 {
-        width: 18rem;
-        height: 2.5rem;
+    .cabecalho1 {
         margin-top: 0.5rem;
+    }
+
+    .google {
+        padding-top: ;
+    }
+
+    .busca1 {
+        width: 30rem;
+        height: 2.5rem;
+        margin-top: 3.5rem;
+        margin-left: -9rem;
     }
 
     .fa-xmark {
@@ -1183,20 +1192,6 @@ footer {
 
     .f1 {
         padding-top: 0.5rem;
-    }
-}
-
-@media screen and (max-width: 720px) {
-    .icons {
-        margin-left: 7rem;
-    }
-
-    .quadrado {
-        margin-left: 0.5rem;
-    }
-
-    .login {
-        margin-left: 0.5rem;
     }
 }
 
