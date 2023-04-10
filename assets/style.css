@@ -795,7 +795,7 @@ footer {
         padding-bottom: 1.5rem;
     }
 }
-@media screen and (max-width: 930px) {
+@media screen and (max-width: 929px) {
     .busca {
         margin-top: -0.3rem;
     }
@@ -1106,7 +1106,7 @@ footer {
     }
 }
 
-@media screen and (max-width: 829px) {
+@media screen and (max-width: 769px) {
     .busca1 {
         width: 22rem;
     }
@@ -1134,7 +1134,7 @@ footer {
     .menu {
         padding: 1rem;
         font-size: 10px;
-        padding-left: 0.3rem;
+        padding-left: 2rem;
     }
 
     .f1 {
