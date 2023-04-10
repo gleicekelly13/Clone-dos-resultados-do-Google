@@ -1135,10 +1135,15 @@ footer {
         padding: 1rem;
         font-size: 10px;
         padding-left: 2rem;
+        gap: 1rem;
+        padding-bottom: 0.5rem;
+        padding-top: 0.3rem;
+        
     }
 
     .f1 {
         margin-left: 0.2rem;
+        margin-top: 0.3rem;
     }
 }
 
