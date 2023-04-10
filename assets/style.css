@@ -1106,7 +1106,7 @@ footer {
     }
 }
 
-@media screen and (max-width: 769px) {
+@media screen and (min-width: 769px) {
     .busca1 {
         width: 22rem;
     }
@@ -1157,7 +1157,7 @@ footer {
     }
 
     .busca1 {
-        width: 45rem;
+        width: 44rem;
         height: 2.5rem;
         margin-top: 3.5rem;
         margin-left: -27rem;
@@ -1194,7 +1194,7 @@ footer {
 
     .login {
         margin-top: 0.4rem;
-        margin-left: -9rem;
+        margin-left: -10rem;
     }
 
     .menu {
