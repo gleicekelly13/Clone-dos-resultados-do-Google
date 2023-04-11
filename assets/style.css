@@ -1146,16 +1146,9 @@ footer {
         
     }
 
-    .mapas, .voar {
-        display: block;
-    }
-
-    .pesquisar, .shopping, .image, .videos, .livros {
-        display: none;
-    }
-
-    .mais1, .f1 {
-        display: none;
+    .f1 {
+        margin-left: 0.2rem;
+        margin-top: 0.3rem;
     }
 }
 
