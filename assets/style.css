@@ -1204,15 +1204,19 @@ footer {
         padding-left: 2rem;
         padding-bottom: 1rem;
         font-size: 11px;
-        gap: 1.5rem;
+        gap: 3.5rem;
     }
 
-    .pesquisar, .image, .videos, .shopping, .mapas, .livros, .voar, .mais1 {
+    .pesquisar, .image, .videos, .shopping, .livros, .mais1 {
         display: none;
+    }
+
+    .mapas, .voar {
+        display: block;
     }
     
     .f1 {
-        margin-left: 17rem;
+       display: none;
     }
 }
 
