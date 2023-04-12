@@ -1169,28 +1169,26 @@ footer {
     }
 
     .fa-xmark {
-        font-size: 12px;
-        margin-left: -7rem;
+        visibility: hidden;
     }
 
     .fa-keyboard {
-        font-size: 12px;
-        margin-left: 0.4rem;
+        visibility: hidden;
     }
 
     .fa-microphone {
         font-size: 12px;
-        margin-left: 0.6rem;
+        margin-left: 1rem;
     }
 
     .fa-camera {
         font-size: 12px;
-        margin-left: 0.5rem;
+        margin-left: 1.5rem;
     }
 
     .fa-magnifying-glass {
-        font-size: 12px;
-        margin-left: 0.4rem;
+        font-size: 11.5px;
+        translate: -42.3rem;
     }
 
     .engrenagem, .quadrado {
