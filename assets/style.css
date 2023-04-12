@@ -43,11 +43,11 @@ body {
     
 }
 
-.busca1 i {
+/*.busca1 i {
     position: absolute;
     
 }
-
+*/
 .fa-xmark {
     margin-left: -11rem;
     font-size: 21px;
@@ -1107,6 +1107,10 @@ footer {
 }
 
 @media screen and (min-width: 769px) {
+    .busca {
+        margin-left: 3rem;
+    }
+
     .busca1 {
         width: 21rem;
         height: 2.3rem;
@@ -1133,7 +1137,19 @@ footer {
     }
 
     .icons {
-        margin-left: 9rem;
+        margin-left: 3.5rem;
+    }
+
+    .engrenagem {
+        margin-left: 1.5rem;
+    }
+
+    .quadrado {
+        margin-left: 0.5rem;
+    }
+
+    .login {
+        margin-left: 0.5rem;
     }
 
     .menu {
@@ -1195,9 +1211,16 @@ footer {
         display: none;
     }
 
+    .hamburguer {
+        display: block;
+        translate: -51rem;
+        margin-top: 0.5rem;
+    }
+
     .login {
-        margin-top: 0.4rem;
+        margin-top: 0.3rem;
         margin-left: -10rem;
+        padding-bottom: 0.5rem;
     }
 
     .menu {
