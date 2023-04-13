@@ -85,7 +85,7 @@ body {
 .icons {
     display: flex;
     flex-direction: row;
-    margin-left: 29rem;
+    margin-left: 30rem;
     cursor: pointer;
 }
 
@@ -715,11 +715,11 @@ footer {
     color: #70757a;
 }
 
-@media screen and (min-width: 1279px) {
+/*@media screen and (min-width: 1279px) {
     .icons {
         display: flex;
         flex-direction: row;
-        margin-left: 28rem;
+        margin-left: 15rem;
     }
 
     .engrenagem {
@@ -757,7 +757,7 @@ footer {
         font-size: 11px;
     }
 }
-*/
+
 @media screen and (max-width: 1030px) {
     .busca1 {
         width: 30rem;
@@ -1175,7 +1175,7 @@ footer {
         margin-top: 0.3rem;
     }
 }
-
+*/
 @media screen and (max-width: 768px) {
     .cabecalho1 {
         margin-top: 0.5rem;
@@ -1212,7 +1212,7 @@ footer {
 
     .fa-magnifying-glass {
         font-size: 11.5px;
-        translate: -42.3rem;
+        translate: -41.2rem;
     }
 
     .engrenagem, .quadrado {
@@ -1221,8 +1221,8 @@ footer {
 
     .hamburguer {
         display: block;
-        translate: -51rem;
-        margin-top: 0.5rem;
+        translate: -73rem;
+        margin-top: 0.7rem;
     }
 
     .login {
