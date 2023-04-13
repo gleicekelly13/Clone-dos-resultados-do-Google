@@ -715,12 +715,13 @@ footer {
     color: #70757a;
 }
 
-@media screen and (max-width: 1072px) {
+@media screen and (min-width: 1279px) {
     .icons {
         display: flex;
         flex-direction: row;
-        margin-left: 1rem;
+        margin-left: 28rem;
     }
+
     .engrenagem {
         margin-left: 1rem;
 
@@ -732,7 +733,8 @@ footer {
     }
 
     .menu {
-        font-size: 12px;
+        font-size: 14px;
+        gap: 1.2rem;
     }
 
     .login {
@@ -741,7 +743,7 @@ footer {
     }
 
     .f1 {
-        margin-left: 7rem;
+        margin-left: 6rem;
     }
 
     .f_2 {
@@ -750,8 +752,13 @@ footer {
     
 }
 
-
-@media screen and (max-width: 1029px) {
+/*@media screen and (max-width: 1045px) {
+    .menu {
+        font-size: 11px;
+    }
+}
+*/
+@media screen and (max-width: 1030px) {
     .busca1 {
         width: 30rem;
     }
@@ -795,7 +802,7 @@ footer {
         padding-bottom: 1.5rem;
     }
 }
-@media screen and (max-width: 929px) {
+/*@media screen and (max-width: 929px) {
     .busca {
         margin-top: -0.3rem;
     }
@@ -1102,17 +1109,18 @@ footer {
 
 @media screen and (max-width: 859px) {
     .icons {
-        margin-left: 8rem;
+        padding-left: 4rem;
     }
 }
 
 @media screen and (min-width: 769px) {
     .busca {
-        margin-left: 3rem;
+        margin-left: 2rem;
+        margin-top: -0.1rem;
     }
 
     .busca1 {
-        width: 21rem;
+        width: 22rem;
         height: 2.3rem;
     }
 
