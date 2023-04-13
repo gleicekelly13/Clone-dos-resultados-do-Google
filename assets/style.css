@@ -1227,7 +1227,7 @@ footer {
 
     .login {
         margin-top: -1.3rem;
-        margin-left: -10rem;
+        margin-left: -30rem;
         padding-bottom: 0.5rem;
     }
 
@@ -1248,6 +1248,10 @@ footer {
     
     .f1 {
        display: none;
+    }
+
+    .estatistica {
+        display: none;
     }
 }
 
