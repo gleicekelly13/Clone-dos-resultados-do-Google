@@ -1261,5 +1261,17 @@ footer {
     .subtopicosb7 {
         margin-left: 1rem;
     }
+
+    .gooogle {
+        display: none;
+    }
+
+    .f_1 {
+        padding: 2rem;
+    }
+
+    .f_2 {
+        margin-left: 2rem;
+    }
 }
 
