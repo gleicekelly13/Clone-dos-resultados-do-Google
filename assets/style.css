@@ -1253,5 +1253,13 @@ footer {
     .estatistica {
         display: none;
     }
+
+    .principal {
+        margin-left: 2rem;
+    }
+
+    .subtopicosb7 {
+        margin-left: 1rem;
+    }
 }
 
