@@ -1262,6 +1262,74 @@ footer {
         margin-left: 1rem;
     }
 
+    .pesquisas2 {
+        font-size: 20px;
+    }
+
+    .inputs {
+        display: flex;
+        flex-direction: column;
+        margin-top: -0.4rem;
+        justify-content: flex-start;
+        align-items: flex-start;
+        
+        
+    }
+
+    .i1 {
+        border-radius: 0;
+        background-color: #fff;
+        border-bottom: 1px solid #dadce0;
+        
+    }
+
+    .i2 {
+        border-radius: 0;
+        background-color: #fff;
+        border-bottom: 1px solid #dadce0;
+       
+    }
+
+    .i3 {
+        border-radius: 0;
+        background-color: #fff;
+        border-bottom: 1px solid #dadce0;
+    }
+
+    .i4 {
+        border-radius: 0;
+        background-color: #fff;
+        border-bottom: 1px solid #dadce0;
+    }
+
+    .inputs-b {
+        margin-left: -0.1rem;
+    }
+
+    .i5 {
+        border-radius: 0;
+        background-color: #fff;
+        border-bottom: 1px solid #dadce0;
+    }
+
+    .i6 {
+        border-radius: 0;
+        background-color: #fff;
+        border-bottom: 1px solid #dadce0;
+    }
+
+    .i7 {
+        border-radius: 0;
+        background-color: #fff;
+        border-bottom: 1px solid #dadce0;
+    }
+
+    .i8 {
+        border-radius: 0;
+        background-color: #fff;
+        border-bottom: 1px solid #dadce0;
+    }
+
     .gooogle {
         display: none;
     }
