@@ -1186,7 +1186,7 @@ footer {
     }
 
     .busca1 {
-        width:43rem;
+        width:40rem;
         height: 2.5rem;
         margin-top: 3.5rem;
         margin-left: -27rem;
@@ -1216,12 +1216,13 @@ footer {
     }
 
     .engrenagem, .quadrado {
+        margin-left: -35rem;
         display: none;
     }
 
     .hamburguer {
         display: block;
-        translate: -72rem;
+        translate: -69rem;
         margin-top: 0.7rem;
     }
 
@@ -1232,10 +1233,10 @@ footer {
     }
 
     .menu {
-        padding-left: 2rem;
+        padding-left: 2.5rem;
         padding-bottom: 1rem;
         font-size: 11px;
-        gap: 3.5rem;
+        gap: 3rem;
     }
 
     .pesquisar, .image, .videos, .shopping, .livros, .mais1 {
@@ -1247,6 +1248,7 @@ footer {
     }
     
     .f1 {
+        margin-left: -4rem;
        display: none;
     }
 
