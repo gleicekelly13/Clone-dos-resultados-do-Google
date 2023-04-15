@@ -1410,7 +1410,7 @@ footer {
 
 @media screen and (max-width: 320px) {
     .busca {
-        margin-left: 15.5rem;
+        margin-left: 15rem;
     }
 
     .busca1 {
@@ -1433,6 +1433,15 @@ footer {
     .login {
         margin-left: -41.5rem;
         margin-top: -1.5rem;
+    }
+
+    .menu {
+        padding-left: 1.5rem;
+        gap: 2.5rem;
+    }
+
+    .mapas, .livros, .voar, .mais1 {
+        display: none;
     }
 }
 
