@@ -1436,12 +1436,21 @@ footer {
     }
 
     .menu {
-        padding-left: 1.5rem;
+        padding-left: 1rem;
         gap: 2.5rem;
     }
 
     .mapas, .livros, .voar, .mais1 {
         display: none;
+    }
+
+    .principal {
+        margin-left: 1rem;
+    }
+
+    .patrocinio {
+        font-size: 11px;
+        margin-top: -0.6rem;
     }
 }
 
