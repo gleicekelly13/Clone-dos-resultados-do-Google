@@ -226,7 +226,7 @@ main {
 }
 
 .subtopico1 {
-    line-height: 26px;
+    line-height: 20px;
 }
 
 h3 {
@@ -1452,5 +1452,78 @@ footer {
         font-size: 11px;
         margin-top: -0.6rem;
     }
+
+    .inscricoes {
+        font-size: 16px;
+    }
+
+    .paragrafo1 {
+        font-size: 11px;
+    }
+
+    .subtopicosb7 {
+        margin-left: 0.5rem;
+    }
+
+    h3 {
+        font-size: 16px;
+    }
+
+    span {
+        font-size: 11px;
+    }
+
+    .paragrafo2 {
+        font-size: 11px;
+    }
+
+    .css1 {
+        font-size: 11px;
+    }
+
+    .subtopico-paragrafo2 {
+        font-size: 11px;
+    }
+
+    .paragrafo-html {
+        font-size: 11px;
+    }
+
+    .pesquisas2 {
+        font-size: 18px;
+    }
+
+    .i1 {
+        font-size: 13px;
+    }
+
+    .i2 {
+        font-size: 13px;
+    }
+
+    .i3 {
+        font-size: 13px;
+    }
+
+    .i4 {
+        font-size: 13px;
+    }
+
+    .i5 {
+        font-size: 13px;
+    }
+
+    .i6 {
+        font-size: 13px;
+    }
+
+    .i7 {
+        font-size: 13px;
+    }
+
+    .i8 {
+        font-size: 13px;
+    }
+
 }
 
