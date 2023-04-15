@@ -1410,7 +1410,7 @@ footer {
 
 @media screen and (max-width: 320px) {
     .busca {
-        margin-left: 2rem;
+        margin-left: 15.5rem;
     }
 
     .busca1 {
@@ -1420,6 +1420,19 @@ footer {
 
     .fa-magnifying-glass {
         translate: -16rem;
+    }
+
+    .hamburguer {
+        translate: -56.5rem;
+    }
+
+    .google {
+        margin-left: 7rem;
+    }
+
+    .login {
+        margin-left: -41.5rem;
+        margin-top: -1.5rem;
     }
 }
 
