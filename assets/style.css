@@ -14,13 +14,13 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     flex-direction: column;
+    
 }
 
 .cabecalho1 {
     display: flex;
     flex-direction: row;
     margin-top: 2rem;
-    width: 100%;
 
 }
 
@@ -43,11 +43,11 @@ body {
     
 }
 
-/*.busca1 i {
+.busca1 i {
     position: absolute;
     
 }
-*/
+
 .fa-xmark {
     margin-left: -11rem;
     font-size: 21px;
@@ -1186,7 +1186,7 @@ footer {
     }
 
     .busca1 {
-        width: 44rem;
+        width:43rem;
         height: 2.5rem;
         margin-top: 3.5rem;
         margin-left: -27rem;
@@ -1202,7 +1202,7 @@ footer {
 
     .fa-microphone {
         font-size: 12px;
-        margin-left: 1rem;
+        margin-left: 1.5rem;
     }
 
     .fa-camera {
@@ -1212,7 +1212,7 @@ footer {
 
     .fa-magnifying-glass {
         font-size: 11.5px;
-        translate: -41.2rem;
+        translate: -40.7rem;
     }
 
     .engrenagem, .quadrado {
@@ -1221,7 +1221,7 @@ footer {
 
     .hamburguer {
         display: block;
-        translate: -73rem;
+        translate: -72rem;
         margin-top: 0.7rem;
     }
 
@@ -1404,20 +1404,11 @@ footer {
         display: none;
     }
 
-    /*.f_1 {
-        padding: 2rem;
-    }
+}
 
-    .brasil {
-        font-size: 12px;
-    }
-
-    .lugar {
-        font-size: 12px;
-    }
-
-    .f_2 {
-        margin-left: 2rem;
+@media screen and (max-width: 320px) {
+    .busca1 {
+        width: 40rem;
     }
 }
 
