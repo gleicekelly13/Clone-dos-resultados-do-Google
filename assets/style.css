@@ -1409,8 +1409,17 @@ footer {
 }
 
 @media screen and (max-width: 320px) {
+    .busca {
+        margin-left: 2rem;
+    }
+
     .busca1 {
-        width: 40rem;
+        width: 18rem;
+        height: 2.5rem;
+    }
+
+    .fa-magnifying-glass {
+        translate: -16rem;
     }
 }
 
