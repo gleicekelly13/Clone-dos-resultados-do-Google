@@ -10,7 +10,6 @@
 body {
     background-color: #fff;
     max-width: 100%;
-    max-height: 100%;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     flex-direction: column;
@@ -85,7 +84,7 @@ body {
 .icons {
     display: flex;
     flex-direction: row;
-    margin-left: 30rem;
+    margin-left: 20rem;
     cursor: pointer;
 }
 
@@ -114,11 +113,12 @@ nav {
 }
 
 .menu {
-    padding: 1.5rem 12rem;
+    margin-top: 1rem;
+    padding-left: 12rem;
     padding-bottom: 1rem;
     border-bottom: 1px solid #dadce0;
-    gap: 1.5rem;
-    font-size: 14px;
+    gap: 1.7rem;
+    font-size: 13px;
     
 }
 
@@ -695,11 +695,11 @@ footer {
     color: #70757a;
 }
 
-/*@media screen and (min-width: 1279px) {
+/*@media screen and (max-width: 1279px) {
     .icons {
         display: flex;
         flex-direction: row;
-        margin-left: 15rem;
+        margin-left: rem;
     }
 
     .engrenagem {
@@ -731,8 +731,7 @@ footer {
     }
     
 }
-
-/*@media screen and (max-width: 1045px) {
+@media screen and (max-width: 1045px) {
     .menu {
         font-size: 11px;
     }
@@ -782,7 +781,7 @@ footer {
         padding-bottom: 1.5rem;
     }
 }
-/*@media screen and (max-width: 929px) {
+@media screen and (max-width: 929px) {
     .busca {
         margin-top: -0.3rem;
     }
@@ -828,7 +827,7 @@ footer {
     }
 }
 
-@media screen and (max-width: 903px) {
+/*@media screen and (max-width: 903px) {
     .busca1 {
         width: 25rem;
     }
@@ -1093,7 +1092,7 @@ footer {
     }
 }
 */
-@media screen and (max-width: 769px) {
+/*@media screen and (min-width: 769px) {
     .google {
         margin-left: 2rem;
         margin-top: -1rem;
@@ -1463,7 +1462,7 @@ footer {
     .menu {
         padding-left: 2.5rem;
         padding-bottom: 1rem;
-        font-size: 11px;
+        font-size: 12px;
         gap: 3rem;
     }
 
