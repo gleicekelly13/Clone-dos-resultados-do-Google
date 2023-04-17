@@ -1193,6 +1193,30 @@ footer {
     .patrocinio {
         font-size: 12px;
     }
+
+    .s1 {
+        font-size: 12px;
+    }
+
+    .s2 {
+        font-size: 11px;
+    }
+
+    .inscricoes {
+        font-size: 18px;
+    }
+
+    .paragrafo1 {
+        font-size: 12px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    span {
+        font-size: 12px;
+    }
 }
 
 @media screen and (max-width: 768px) {
