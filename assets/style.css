@@ -1112,11 +1112,16 @@ footer {
         padding-left: 4rem;
     }
 }
-
-@media screen and (min-width: 769px) {
-    .busca {
+*/
+@media screen and (max-width: 769px) {
+    .google {
         margin-left: 2rem;
-        margin-top: -0.1rem;
+        margin-top: -1rem;
+    }
+
+    .busca {
+        margin-left: 1rem;
+        margin-top: -1rem;
     }
 
     .busca1 {
@@ -1145,7 +1150,8 @@ footer {
     }
 
     .icons {
-        margin-left: 3.5rem;
+        margin-left: 10rem;
+        margin-top: -1rem;
     }
 
     .engrenagem {
@@ -1175,7 +1181,7 @@ footer {
         margin-top: 0.3rem;
     }
 }
-*/
+
 @media screen and (max-width: 768px) {
     .cabecalho1 {
         margin-top: 0.5rem;
