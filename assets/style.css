@@ -1330,6 +1330,55 @@ footer {
         margin-left: 0.7rem;
         font-size: 18px;
     }
+
+    .numeracao {
+        margin-left: 1.5rem;
+    }
+
+    .p1 {
+        margin-left: 0.3rem;
+        font-size: 12px;
+    }
+
+    .p2 {
+        margin-left: 0.7rem;
+        font-size: 12px;
+    }
+
+    .p3 {
+        margin-left: 0.6rem;
+        font-size: 12px;
+    }
+
+    .p4 {
+        margin-left: 0.5rem;
+        font-size: 12px;
+    }
+
+    .p5 {
+        margin-left: 0.7rem;
+        font-size: 12px;
+    }
+
+    .p6 {
+        margin-left: 0.6rem;
+        font-size: 12px;
+    }
+
+    .p7 {
+        margin-left: 0.6rem;
+        font-size: 12px;
+    }
+
+    .p8 {
+        margin-left: 0.6rem;
+        font-size: 12px;
+    }
+
+    .mais {
+        margin-left: 2.5rem;
+        font-size: 12px;
+    }
 }
 
 @media screen and (max-width: 768px) {
