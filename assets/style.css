@@ -1105,7 +1105,13 @@ footer {
         margin-left: 4rem;
     }
 }
-*/
+
+@media screen and (max-width: 800px) {
+    .engrenagem {
+        display: none;
+    }
+}
+
 /*@media screen and (min-width: 769px) {
     .google {
         margin-left: 2rem;
@@ -1415,9 +1421,9 @@ footer {
         margin-left: 3rem;
         font-size: 12px;
     }
-}
+}*/
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 760px) {
     .cabecalho1 {
         margin-top: 0.5rem;
     }
@@ -1426,8 +1432,12 @@ footer {
         margin-left: 20rem;
     }
 
+    .busca {
+        margin-left: 3rem;
+    }
+
     .busca1 {
-        width:40rem;
+        width: 40rem;
         height: 2.5rem;
         margin-top: 3.5rem;
         margin-left: -27rem;
@@ -1456,20 +1466,20 @@ footer {
         translate: -40.7rem;
     }
 
-    .engrenagem, .quadrado {
+    .quadrado {
         margin-left: -35rem;
         display: none;
     }
 
     .hamburguer {
         display: block;
-        translate: -69rem;
+        translate: -42rem;
         margin-top: 0.7rem;
     }
 
     .login {
         margin-top: -1.3rem;
-        margin-left: -32rem;
+        margin-left: -7rem;
         padding-bottom: 0.5rem;
     }
 
@@ -1575,8 +1585,7 @@ footer {
         margin-top: -0.4rem;
         justify-content: flex-start;
         align-items: flex-start;
-        
-        
+           
     }
 
     .i1 {
@@ -1646,10 +1655,10 @@ footer {
     .rodape {
         display: none;
     }
-
 }
 
-@media screen and (max-width: 320px) {
+
+/*@media screen and (max-width: 320px) {
     .busca {
         margin-left: 15rem;
     }
