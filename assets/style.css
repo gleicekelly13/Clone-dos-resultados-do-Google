@@ -701,6 +701,17 @@ footer {
     }
 }
 
+@media screen and (max-width: 1050px) {
+    .busca {
+        margin-left: 1rem;
+    }
+}
+
+
+
+
+
+
 /*@media screen and (max-width: 1279px) {
     .icons {
         display: flex;
@@ -741,9 +752,9 @@ footer {
     .menu {
         font-size: 11px;
     }
-}
+}*/
 
-@media screen and (max-width: 1030px) {
+@media screen and (max-width: 1020px) {
     .busca1 {
         width: 30rem;
     }
@@ -787,7 +798,11 @@ footer {
         padding-bottom: 1.5rem;
     }
 }
-@media screen and (max-width: 929px) {
+
+
+
+
+/*@media screen and (max-width: 929px) {
     .busca {
         margin-top: -0.3rem;
     }
