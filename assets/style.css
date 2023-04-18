@@ -695,6 +695,12 @@ footer {
     color: #70757a;
 }
 
+@media screen and (max-width: 1071px) {
+    .icons {
+        margin-left: 3rem;
+    }
+}
+
 /*@media screen and (max-width: 1279px) {
     .icons {
         display: flex;
