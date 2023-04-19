@@ -146,7 +146,10 @@ nav {
     padding-right: 0.3rem;
 }
 
-
+.mais2 {
+    margin-left: -1.5rem;
+    margin-top: 0.2rem;
+}
 
 a {
     
@@ -705,6 +708,10 @@ footer {
     .busca {
         margin-left: 1rem;
     }
+
+    .f1 {
+        margin-left: 2.5rem;
+    }
 }
 
 
@@ -765,10 +772,15 @@ footer {
 
     .menu {
         padding-left: 2rem;
+        gap: 1.2rem;
+    }
+
+    .mais2 {
+        margin-left: -1.2rem;
     }
 
     .f1 {
-        margin-left: 1.5rem;
+        margin-left: 0.5rem;
     }
 
     .estatistica {
@@ -852,7 +864,17 @@ footer {
 
     .menu {
         padding-bottom: 1rem;
-        font-size: 10px;
+        font-size: 11px;
+        gap: 1.5rem;
+    }
+
+    .mais2 {
+        margin-left: -1.2rem;
+        margin-top: 0.3rem;
+    }
+
+    .f1 {
+        margin-left: 1.2rem;
     }
 
     .estatistica {
@@ -1104,11 +1126,21 @@ footer {
     .icons {
         margin-left: 4rem;
     }
+
+    .mais2 {
+        margin-left: -1.5rem;
+        margin-top: 0.4rem;
+    }
 }
 
 @media screen and (max-width: 800px) {
     .engrenagem {
         display: none;
+    }
+
+    .mais2 {
+        margin-left: -1.5rem;
+        margin-top: 0.4rem;
     }
 }
 
@@ -1495,6 +1527,11 @@ footer {
         display: none;
     }
 
+    .mais2 {
+        margin-left: -0.1rem;
+        margin-top: -0.1rem;
+    }
+
     .mapas, .voar {
         display: block;
     }
@@ -1660,8 +1697,30 @@ footer {
     }
 }
 
-@media screen and (max-width: 740px) {
+@media screen and (max-width: 675px) {
+    .google {
+        margin-left: 13rem;
+    }
 
+    .busca {
+        margin-left: 10rem;
+    }
+
+    .busca1 {
+        width: 30rem;
+    }
+
+    .fa-magnifying-glass {
+        translate: -27.7rem;
+    }
+
+    .menu {
+        gap: 2.7rem;
+    }
+
+    .voar, .mais2 {
+        display: none;
+    }
 }
 
 
