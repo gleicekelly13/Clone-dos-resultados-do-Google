@@ -146,6 +146,11 @@ nav {
     padding-right: 0.3rem;
 }
 
+.livros1 {
+    margin-left: -1.5rem;
+    margin-top: 0.2rem;
+}
+
 .mais2 {
     margin-left: -1.5rem;
     margin-top: 0.2rem;
@@ -1722,6 +1727,23 @@ footer {
         display: none;
     }
 }
+
+@media screen and (max-width: 520px) {
+    .google {
+        margin-left: 9rem;
+    }
+
+    .busca {
+        margin-left: 14rem;
+    }
+
+    .busca1 {
+        width: 20rem;
+    }
+}
+
+
+
 
 
 /*@media screen and (max-width: 320px) {
