@@ -688,10 +688,10 @@ footer {
     display: flex;
     flex-direction: row;
     gap: 2rem;
-    padding-bottom: 2rem;
+    padding-bottom: 1.5rem;
     margin-left: 12rem;
     padding-top: 1rem;
-    font-size: 14px;
+    font-size: 13px;
     color: #70757a;
 }
 
@@ -1472,7 +1472,7 @@ footer {
     }
 
     .hamburguer {
-        display: block;
+        display: none;
         translate: -42rem;
         margin-top: 0.7rem;
     }
@@ -1481,6 +1481,7 @@ footer {
         margin-top: -1.3rem;
         margin-left: -7rem;
         padding-bottom: 0.5rem;
+        display: none;
     }
 
     .menu {
@@ -1508,7 +1509,9 @@ footer {
     }
 
     .principal {
-        margin-left: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     }
 
     .patrocinio {
@@ -1657,6 +1660,9 @@ footer {
     }
 }
 
+@media screen and (max-width: 740px) {
+
+}
 
 
 /*@media screen and (max-width: 320px) {
