@@ -1757,10 +1757,10 @@ footer {
     }
 
     .busca1 {
-        width: 20rem;
+        width: 25rem;
     }
 
-    .mapas, .livros1 {
+    .livros1 {
         display: none;
     }
 }
