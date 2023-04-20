@@ -1788,31 +1788,35 @@ footer {
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 360px) {
     .google {
         margin-left: 7rem;
     }
 
     .busca {
-        margin-left: 15rem;
+        margin-left: 16rem;
     }
 
     .busca1 {
-        width: 18rem;
+        width: 20rem;
         height: 2.2rem;
     }
 
     .fa-magnifying-glass {
-        translate: -16rem;
+        translate: -18rem;
     }
 
     .menu {
-        padding-left: 1rem;
+        padding-left: 2rem;
         gap: 2rem;
     }
 
+    .mapas {
+        display: none;
+    }
+
     .principal {
-        margin-left: 1rem;
+        margin-left: 2rem;
     }
 }
 
