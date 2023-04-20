@@ -1749,6 +1749,29 @@ footer {
 
 @media screen and (max-width: 520px) {
     .google {
+        margin-left: 11rem;
+    }
+
+    .busca {
+        margin-left: 12rem;
+    }
+
+    .busca1 {
+        width: 25rem;
+    }
+
+    .fa-magnifying-glass {
+        translate: -23rem;
+        font-size: 11px;
+    }
+
+    .livros1 {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 460px) {
+    .google {
         margin-left: 9rem;
     }
 
@@ -1757,14 +1780,41 @@ footer {
     }
 
     .busca1 {
-        width: 25rem;
+        width: 20rem;
     }
 
-    .livros1 {
+    .mapas {
         display: none;
     }
 }
 
+@media screen and (max-width: 320px) {
+    .google {
+        margin-left: 7rem;
+    }
+
+    .busca {
+        margin-left: 15rem;
+    }
+
+    .busca1 {
+        width: 18rem;
+        height: 2.2rem;
+    }
+
+    .fa-magnifying-glass {
+        translate: -16rem;
+    }
+
+    .menu {
+        padding-left: 1rem;
+        gap: 2rem;
+    }
+
+    .principal {
+        margin-left: 1rem;
+    }
+}
 
 
 
