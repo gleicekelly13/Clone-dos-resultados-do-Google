@@ -1796,7 +1796,21 @@ footer {
     }
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 446px) {
+    .google {
+        margin-left: 11rem;
+    }
+
+    .busca {
+        margin-left: 11rem;
+    }
+
+    .busca1 {
+        width: 25rem;
+    }
+}
+
+/*@media screen and (max-width: 360px) {
     .google {
         margin-left: 7rem;
     }
