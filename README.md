@@ -5,6 +5,10 @@
 
 ## :desktop_computer: Desktop design
 <br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/80974593/233714426-ba0e457d-ae23-4a43-b4ba-9108832bc24b.png" width="700">
+</div>
+<br>
 
 <h2 align="center">:hourglass: Status do projeto </h2>
 <h4>:white_check_mark: Desktop - EM ANDAMENTO  </h4>
