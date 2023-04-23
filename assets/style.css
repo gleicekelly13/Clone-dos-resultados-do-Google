@@ -720,53 +720,6 @@ footer {
     }
 }
 
-
-
-
-
-
-/*@media screen and (max-width: 1279px) {
-    .icons {
-        display: flex;
-        flex-direction: row;
-        margin-left: rem;
-    }
-
-    .engrenagem {
-        margin-left: 1rem;
-
-    }
-
-    .quadrado {
-        margin-left: 1rem;
-    
-    }
-
-    .menu {
-        font-size: 14px;
-        gap: 1.2rem;
-    }
-
-    .login {
-        margin-left: 1rem;
-    
-    }
-
-    .f1 {
-        margin-left: 6rem;
-    }
-
-    .f_2 {
-        padding: bottom 1.5em;
-    }
-    
-}
-@media screen and (max-width: 1045px) {
-    .menu {
-        font-size: 11px;
-    }
-}*/
-
 @media screen and (max-width: 1020px) {
     .busca1 {
         width: 30rem;
@@ -820,52 +773,6 @@ footer {
         padding-bottom: 1.5rem;
     }
 }
-
-/*@media screen and (max-width: 929px) {
-    .busca {
-        margin-top: -0.3rem;
-    }
-
-    .busca1 {
-        width: 26rem;
-        height: 2.5rem;
-        font-size: 12px;
-    }
-
-    .fa-xmark {
-        font-size: 15px;
-        margin-left: -9rem;
-    }
-
-    .fa-keyboard {
-        font-size: 15px;
-        margin-left: 0.8rem;
-    }
-
-    .fa-microphone {
-        font-size: 15px;
-        margin-left: 0.7rem;
-    }
-
-    .fa-camera {
-        font-size: 15px;
-        margin-left: 0.6rem;
-    }
-
-    .fa-magnifying-glass {
-        font-size: 15px;
-        margin-left: 0.6rem;
-    }
-
-    .icons {
-        margin-left: 12rem;
-    }
-
-    .menu {
-        padding: 1rem 1.5rem;
-        font-size: 11px;
-    }
-}*/
 
 @media screen and (max-width: 895px) {
     .icons {
@@ -1171,317 +1078,6 @@ footer {
         font-weight: 100;
     }
 }
-
-/*@media screen and (min-width: 769px) {
-    .google {
-        margin-left: 2rem;
-        margin-top: -1rem;
-    }
-
-    .busca {
-        margin-left: 1rem;
-        margin-top: -1rem;
-    }
-
-    .busca1 {
-        width: 24rem;
-        height: 2.3rem;
-    }
-
-    .fa-xmark {
-        font-size: 13px;
-    }
-
-    .fa-keyboard {
-        font-size: 13px;
-    }
-
-    .fa-microphone {
-        font-size: 13px;
-    }
-
-    .fa-camera {
-        font-size: 13px;
-    }
-
-    .fa-magnifying-glass {
-        font-size: 13px;
-    }
-
-    .icons {
-        margin-left: 8rem;
-        margin-top: -1rem;
-    }
-
-    .engrenagem {
-        margin-left: 1.5rem;
-    }
-
-    .quadrado {
-        margin-left: 0.5rem;
-    }
-
-    .login {
-        margin-left: 0.5rem;
-    }
-
-    .menu {
-        padding: 1rem;
-        font-size: 11px;
-        padding-left: 2rem;
-        gap: 1rem;
-        padding-bottom: 0.5rem;
-        padding-top: 0.3rem;
-        
-    }
-
-    .f1 {
-        margin-left: 0.2rem;
-        margin-top: 0.3rem;
-    }
-
-    .estatistica {
-        margin-left: 2rem;
-        font-size: 12px;
-    }
-
-    .principal {
-        margin-left: 2rem;
-    }
-
-    .patrocinio {
-        font-size: 12px;
-    }
-
-    .s1 {
-        font-size: 12px;
-    }
-
-    .s2 {
-        font-size: 11px;
-    }
-
-    .inscricoes {
-        font-size: 18px;
-    }
-
-    .paragrafo1 {
-        font-size: 12px;
-    }
-
-    h3 {
-        font-size: 18px;
-    }
-
-    span {
-        font-size: 12px;
-    }
-
-    .m1 {
-        font-size: 12px;
-    }
-
-    .m2 {
-        font-size: 11px;
-    }
-
-    .paragrafo2 {
-        font-size: 12px;
-    }
-
-    .css1 {
-        font-size: 12px;
-    }
-
-    .subtopico-paragrafo2 {
-        font-size: 12px;
-    }
-
-    .h1 {
-        font-size: 12px;
-    }
-
-    .h2 {
-        font-size: 11px;
-    }
-
-    .paragrafo-html {
-        font-size: 12px;
-    }
-
-    .pesquisas2 {
-        font-size: 20px;
-    }
-
-    .i1 {
-        width: 18rem;
-        height: 2.8rem;
-    }
-
-    .i2 {
-        width: 18rem;
-        height: 2.8rem;
-    }
-
-    .i3 {
-        width: 18rem;
-        height: 2.8rem;
-    }
-
-    .i4 {
-        width: 18rem;
-        height: 2.8rem;
-    }
-
-    .i5 {
-        width: 18rem;
-        height: 2.8rem;
-    }
-
-    .i6 {
-        width: 18rem;
-        height: 2.8rem;
-    }
-
-    .i7 {
-        width: 18rem;
-        height: 2.8rem;
-    }
-
-    .i8 {
-        width: 18rem;
-        height: 2.8rem;
-    }
-
-    .gooogle {
-        margin-left: 13rem;
-    }
-
-    .g {
-        font-size: 30px;
-    }
-
-    .o1 {
-        font-size: 30px;
-    }
-
-    .o2 {
-        font-size: 30px;
-    }
-
-    .o3 {
-        font-size: 30px;
-    }
-
-    .o4 {
-        font-size: 30px;
-    }
-
-    .o5 {
-        font-size: 30px;
-    }
-
-    .o6 {
-        font-size: 30px;
-    }
-
-    .o7 {
-        font-size: 30px;
-    }
-
-    .o8 {
-        font-size: 30px;
-    }
-
-    .g1 {
-        font-size: 30px;
-    }
-
-    .l {
-        font-size: 30px;
-    }
-
-    .e {
-        font-size: 30px;
-    }
-
-    .seta {
-        margin-left: 0.7rem;
-        font-size: 18px;
-    }
-
-    .numeracao {
-        margin-left: 1.5rem;
-    }
-
-    .p1 {
-        margin-left: 0.3rem;
-        font-size: 12px;
-    }
-
-    .p2 {
-        margin-left: 0.7rem;
-        font-size: 12px;
-    }
-
-    .p3 {
-        margin-left: 0.6rem;
-        font-size: 12px;
-    }
-
-    .p4 {
-        margin-left: 0.5rem;
-        font-size: 12px;
-    }
-
-    .p5 {
-        margin-left: 0.7rem;
-        font-size: 12px;
-    }
-
-    .p6 {
-        margin-left: 0.6rem;
-        font-size: 12px;
-    }
-
-    .p7 {
-        margin-left: 0.6rem;
-        font-size: 12px;
-    }
-
-    .p8 {
-        margin-left: 0.6rem;
-        font-size: 12px;
-    }
-
-    .mais {
-        margin-left: 2.5rem;
-        font-size: 12px;
-    }
-
-    .rodape {
-        margin-top: 4rem;
-    }
-
-    .f_1 {
-        padding: 3rem;
-        padding-top: 1rem;
-        padding-bottom: 1rem;
-    }
-
-    .brasil {
-        font-size: 12px;
-    }
-
-    .lugar {
-        font-size: 12px;
-    }
-
-    .f_2 {
-        margin-left: 3rem;
-        font-size: 12px;
-    }
-}*/
 
 @media screen and (max-width: 760px) {
     .cabecalho1 {
@@ -1811,13 +1407,13 @@ footer {
     }
 }
 
-/*@media screen and (max-width: 360px) {
+@media screen and (max-width: 360px) {
     .google {
-        margin-left: 7rem;
+        margin-left: 8rem;
     }
 
     .busca {
-        margin-left: 16rem;
+        margin-left: 14rem;
     }
 
     .busca1 {
@@ -1831,7 +1427,8 @@ footer {
 
     .menu {
         padding-left: 2rem;
-        gap: 2rem;
+        gap: 2.5rem;
+        
     }
 
     .mapas {
@@ -1839,14 +1436,79 @@ footer {
     }
 
     .principal {
-        margin-left: 2rem;
+        margin-left: 1rem;
+        font-size: 11px;
+    }
+
+    .patrocinio {
+        font-size: 11px;
+    }
+
+    .s1 {
+        font-size: 11px;
+    }
+
+    .s2 {
+        font-size: 10px;
+    }
+
+    .inscricoes {
+        font-size: 14px;
+    }
+
+    .paragrafo1 {
+        font-size: 11px;
+    }
+
+    h3 {
+        font-size: 14px;
+    }
+
+    span {
+        font-size: 11px;
+    }
+
+    .m1 {
+        font-size: 11px;
+    }
+
+    .m2 {
+        font-size: 10px;
+    }
+
+    .paragrafo2 {
+        font-size: 11px;
+    }
+
+    .css1 {
+        font-size: 10px;
+    }
+
+    .subtopico-paragrafo2 {
+        font-size: 11px;
+    }
+
+    .h1 {
+        font-size: 11px;
+    }
+
+    .h2 {
+        font-size: 10px;
+    }
+
+    .paragrafo-html {
+        font-size: 11px;
+    }
+
+    .pesquisas2 {
+        font-size: 16px;
     }
 }
 
 
 
 
-/*@media screen and (max-width: 320px) {
+@media screen and (max-width: 320px) {
     .busca {
         margin-left: 15rem;
     }
