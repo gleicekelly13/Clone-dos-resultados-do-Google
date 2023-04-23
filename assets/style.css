@@ -1403,7 +1403,7 @@ footer {
     }
 
     .busca1 {
-        width: 25rem;
+        width: 21rem;
     }
 }
 
@@ -1506,8 +1506,6 @@ footer {
 }
 
 
-
-
 @media screen and (max-width: 320px) {
     .busca {
         margin-left: 15rem;
@@ -1522,22 +1520,22 @@ footer {
         translate: -16rem;
     }
 
-    .hamburguer {
+    /*.hamburguer {
         translate: -56.5rem;
-    }
+    }*/
 
     .google {
         margin-left: 7rem;
     }
 
-    .login {
+    /*.login {
         margin-left: -41.5rem;
         margin-top: -1.5rem;
-    }
+    }*/
 
     .menu {
         padding-left: 1rem;
-        gap: 2.5rem;
+        gap: 2rem;
     }
 
     .mapas, .livros, .voar, .mais1 {
@@ -1624,6 +1622,7 @@ footer {
     .i8 {
         font-size: 13px;
     }
-
 }
+
+
 
