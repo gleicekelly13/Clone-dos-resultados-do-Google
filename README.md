@@ -27,7 +27,7 @@
 <p>Posicionamento dos ícones dentro do input</p>
 <p>Posicionamento dos elementos na página</p>
 <p>Praticar Flexbox</p>
-<p>Aplicação de responsividade</p>
+<p>Aplicação da responsividade</p>
 
 <br>
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
