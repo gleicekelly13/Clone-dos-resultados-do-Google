@@ -22,6 +22,14 @@
 <h4>:white_check_mark: Mobile - FINALIZADO :white_check_mark: </h4>
 
 <br>
+<h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
+<p>Praticar a estrutura da página</p>
+<p>Posicionamento dos ícones dentro do input</p>
+<p>Posicionamento dos elementos na página</p>
+<p>Praticar Flexbox</p>
+<p>Aplicação da responsividade</p>
+
+<br>
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
 <p>HTML5</p>
 <p>CSS3</p>
